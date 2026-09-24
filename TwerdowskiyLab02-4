@@ -1,0 +1,17 @@
+<HTML>
+	<HEAD>
+		<TITLE>TverdowskiyLab02-4</TITLE>
+		<meta charset =UTF-8>
+		<meta name="Description" content="Виконання лабораторної роботи 2">
+		<meta name="Keywords" content="Твердовський,програмування,хобі,про себе,студент">
+	</HEAD>
+	<BODY background="background2.png">
+		<B>МОЯ ГРУПА</B><BR>
+
+		<P aligh="justify">
+		В моїй студентській  групі 304ТН находяться 26 осіб, 21 з яких навчаються ще  першого курсу. Найкращі люди з всіх можливих
+		</P>
+
+		<img src="people.jpg" height="500" width="500" class="centered-image" alt="натов невідомих людей" style="border: 2px solid #333">
+	</BODY>
+</HTML>
